@@ -19,7 +19,7 @@ Commands:
 - quit/EOF - quits from the console
 - help - see descriptions of commands
 
-#To start, navigate to the project folder and enter ./console.py in the shell.
+- To start, navigate to the project folder and enter ./console.py in the shell.
 
 - Create
 
