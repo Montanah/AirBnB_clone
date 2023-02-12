@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Defines unittests for console.py.
 Unittest classes:
     TestHBNBCommand_prompting
